@@ -1,0 +1,8 @@
+/* This is a placeholder. Use an image editor or online tool to create a 32x32 ICO file from the favicon.svg.
+   The ICO format requires binary encoding which cannot be created directly in a text file.
+   
+   Steps to create:
+   1. Convert favicon.svg to PNG (32x32)
+   2. Use a tool like ImageMagick or an online converter to create favicon.ico
+   3. Replace this file with the binary ICO file
+*/

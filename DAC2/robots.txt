@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://detailed-auto-care.ca/sitemap.xml
